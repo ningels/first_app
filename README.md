@@ -33,3 +33,5 @@ Use a migrations file for the above.
 2)  test.rb runs the test on the explorer mode
 3)  /models/create_db.rb drops the database and recreates it initializing it with 3 ipsums
     it does this using the migration.rb
+#Change Log
+2017-02-22 - trying to resubmit after creating a branch
