@@ -4,4 +4,5 @@ source 'https://rubygems.org' do
   gem 'rack-test', require: 'rack/test'
   gem 'faker', github: 'stympy/faker'
   gem 'activerecord'
+  gem 'sqlite3'
 end
